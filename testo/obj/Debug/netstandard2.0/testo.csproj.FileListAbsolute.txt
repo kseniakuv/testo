@@ -1,0 +1,11 @@
+/Users/student/Projects/testo/testo/obj/Debug/netstandard2.0/testo.csprojResolveAssemblyReference.cache
+/Users/student/Projects/testo/testo/obj/Debug/netstandard2.0/testo.csproj.CoreCompileInputs.cache
+/Users/student/Projects/testo/testo/obj/Debug/netstandard2.0/testo.AssemblyInfoInputs.cache
+/Users/student/Projects/testo/testo/obj/Debug/netstandard2.0/testo.AssemblyInfo.cs
+/Users/student/Projects/testo/testo/obj/Debug/netstandard2.0/testo.dll
+/Users/student/Projects/testo/testo/obj/Debug/netstandard2.0/testo.pdb
+/Users/student/Projects/testo/testo/bin/Debug/netstandard2.0/testo.deps.json
+/Users/student/Projects/testo/testo/bin/Debug/netstandard2.0/testo.dll
+/Users/student/Projects/testo/testo/bin/Debug/netstandard2.0/testo.pdb
+/Users/student/Projects/testo/testo/bin/Debug/netstandard2.0/Mono.Android.dll
+/Users/student/Projects/testo/testo/bin/Debug/netstandard2.0/Mono.Android.pdb
